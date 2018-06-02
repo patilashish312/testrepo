@@ -7,6 +7,8 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
+/*I implemented this partial executable solution around 2013 ! for amazon code ninja programming contest.*/
+
 public class Fib_Test {
 	public static void main(String a[]) throws IOException {
 		System.out.println("Enter test Cases:");
